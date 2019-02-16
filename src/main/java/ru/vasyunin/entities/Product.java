@@ -1,4 +1,4 @@
-package com.geekbrains.entities;
+package ru.vasyunin.entities;
 
 public class Product {
     Long id;

@@ -1,4 +1,4 @@
-package com.geekbrains.launcher;
+package ru.vasyunin.launcher;
 
 import java.net.URL;
 import java.security.ProtectionDomain;
