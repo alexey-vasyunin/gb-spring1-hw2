@@ -1,11 +1,10 @@
-package com.geekbrains.repositories;
+package ru.vasyunin.repositories;
 
-import com.geekbrains.entities.Product;
+import ru.vasyunin.entities.Product;
 import org.springframework.stereotype.Component;
 
 import javax.annotation.PostConstruct;
 import java.util.ArrayList;
-import java.util.HashMap;
 import java.util.List;
 import java.util.TreeMap;
 

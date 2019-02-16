@@ -1,7 +1,7 @@
-package com.geekbrains.services;
+package ru.vasyunin.services;
 
-import com.geekbrains.entities.Product;
-import com.geekbrains.repositories.ProductReppository;
+import ru.vasyunin.entities.Product;
+import ru.vasyunin.repositories.ProductReppository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

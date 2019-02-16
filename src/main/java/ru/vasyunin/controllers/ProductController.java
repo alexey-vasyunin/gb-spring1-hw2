@@ -1,13 +1,11 @@
-package com.geekbrains.controllers;
+package ru.vasyunin.controllers;
 
-import com.geekbrains.entities.Product;
-import com.geekbrains.services.ProductService;
+import ru.vasyunin.entities.Product;
+import ru.vasyunin.services.ProductService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.*;
-
-import javax.jws.WebParam;
 
 @Controller
 @RequestMapping("/products")
