@@ -1,0 +1,16 @@
+label.addform {
+  width: 100px;
+  display: inline-block;
+}
+input.addform {
+  width: 80px;
+}
+.menu {
+  display: block;
+  width: 300px;
+}
+.menu:hover {
+  background: darkcyan;
+  color: white;
+}
+/*# sourceMappingURL=main.css.map */
